@@ -6,7 +6,7 @@ Performance
 -Sodium
 -Lithium
 
-Libaries/configs
+Libraries/configs
 -libIPN
 -Forge ConfigAPI Port
 -collective
