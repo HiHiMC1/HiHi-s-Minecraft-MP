@@ -1,7 +1,7 @@
 HiHi-s-Minecraft-MP-1.20.2
 Fabric
-MOD LIST-
 
+MOD LIST-
 Performance
 -Sodium
 -Lithium
